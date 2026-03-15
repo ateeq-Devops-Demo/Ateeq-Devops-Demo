@@ -1,4 +1,4 @@
 <Solution>
   <Project Path="Devops-Demo/Devops-Demo.csproj" />
-  <Project Path="UnitTestProject1/UnitTestProject1.csproj" />
+  <Project Path="UnitTestProject2/UnitTestProject2.csproj" Id="38b20e95-92a8-4f3b-ab07-e6c726894239" />
 </Solution>
